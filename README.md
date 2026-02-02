@@ -3,6 +3,9 @@
 👋 Hi there I'm a developer working in the IT department of the retail industry 🛒<br/>
 I focus on developing frontend-driven business automation and AI/chatbot integration systems. 👩🏻‍💻
 
+## 📊 My Stats
+![danarxxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=danarxxi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
