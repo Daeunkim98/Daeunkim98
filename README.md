@@ -26,7 +26,8 @@ I focus on developing frontend-driven business automation and AI/chatbot integra
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 ### 🤖 AI, Data & Automation
-<img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chat GPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/A.WORKS-003A8F?style=for-the-badge&logoColor=white"/>
