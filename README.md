@@ -1,9 +1,5 @@
-## 👋 Hi there
-
 👋 Hi there I'm a developer working in the IT department of the retail industry 🛒<br/>
 I focus on backend development, business process automation, and AI-powered systems. 👩🏻‍💻
-
----
 
 ## 🛠 Tech Stack
 
