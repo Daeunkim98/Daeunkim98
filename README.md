@@ -31,11 +31,13 @@ I focus on backend development, business process automation, and AI-powered syst
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
-### 🤖 AI & Data
+### 🤖 AI, Data & Automation 
 <div>
   <img src="https://img.shields.io/badge/LLM-4B0082?style=flat-square"/>
   <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A.WORKS-RPA-005BAC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation_Anywhere-1F3C88?style=flat-square"/>
 </div>
 
 ### 🧩 Others
